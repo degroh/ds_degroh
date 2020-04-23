@@ -1,1 +1,1 @@
-# ds_degroh
+# Deploy Web - Mnist (example)
